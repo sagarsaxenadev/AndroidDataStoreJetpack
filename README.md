@@ -1,5 +1,6 @@
 # AndroidDataStoreJetpack
-I have used datastore library to store data. you can download the project and learn about implementation of datastore. It's very easy 
+I have used datastore library to store data in this project. you can download the project and learn about the implementation of datastore. It's very easy 
+
 Add this in your gradle file
 dependencies {
     // Preferences DataStore
